@@ -1,0 +1,115 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+#title{
+    background-color: #00b4d8;
+}
+
+#xyz{
+    margin-top: 14%;
+    color: antiquewhite;
+    font-family: 'Ubuntu', sans-serif;
+}
+.navbar-brand{
+    color: antiquewhite;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 300%;
+    margin-left: 0;
+}
+.image{
+    height: 35rem;
+    position: absolute;
+    transform: rotate(-25deg);
+}
+h1{
+
+    color: antiquewhite;
+    font-family: 'Ubuntu', sans-serif;
+}
+.container-fluid{
+    padding:3% 15%;
+}
+.nav-item{
+    color: antiquewhite;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.downbut{
+    margin: 5% 3% 5% 0;
+}
+#part2{
+    text-align: center;
+    background-color: white;
+    position: relative;
+}
+.fonts{
+    color:#00b4d8;
+    padding: 20%;
+}
+.carousel-item{
+    padding-bottom: 1%;
+    padding-right:10% ;
+    padding-left: 10%;
+    
+}
+.testimonals{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+.carousel{
+    background-color: #0077b6;
+    text-align: center;
+}
+.imgone{
+    border-radius: 200%;
+    width: 200px;
+    margin: 5%;
+}
+.logosformedia{
+    width : 25%;
+    margin: 5%;
+}
+.testicles{
+    background-color:#00b4d8 ;
+    padding: 2%;
+    size: 50%;
+}
+
+#pricing{
+    text-align: center;
+    padding: 100px;
+}
+.pricingcol{
+    padding: 2% 3%;
+}
+#cta{
+    background-color: #00b4d8;
+    text-align: center;
+    padding: 5%;
+}
+#pappu{
+    font-size: 300%;
+    padding: 3%;
+}
+.xyhz{
+    margin: 3%;
+    margin-top: 0%;
+}
+#footer{
+    color: darkgrey;
+    text-align: center;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+.fic{
+    margin: 15px;
+    color: black;
+}
+
+@media (max-width : 1100px){
+    .image{
+        transform: rotate(0);
+        position: static;
+    }
+}
